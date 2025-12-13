@@ -1,4 +1,3 @@
-# Rules Debian Extra
+# Rules Package Extra
 
-Bazel rules for Debian packages, in addition to
-[rules_pkg](https://github.com/bazelbuild/rules_pkg).
+Bazel rules for packages, in addition to [rules_pkg](https://github.com/bazelbuild/rules_pkg).
